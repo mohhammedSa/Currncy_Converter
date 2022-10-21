@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currenverter</string>
+    <string name="title">Currency Converter</string>
+    <string name="from">From</string>
+    <string name="from_hint">select a country</string>
+    <string name="to">To</string>
+    <string name="to_hint">select a country</string>
+    <string name="btn_text">Convert</string>
+    <string name="amount_text">Amount</string>
+    <string name="amount_hint">amount</string>
+    <string name="result">Result</string>
+    <string name="result_hint">converted amount</string>
+    <string name="dirham">Moroccan Dirhams</string>
+    <string name="rial">Saudi Rial</string>
+</resources>
